@@ -4,7 +4,7 @@
 
 * Pronouns: 		  He/Him
 * Current Role: 	Software Developer
-* Ask Me About:		.NET / Java / Python & Machine Learning / Web 
+* Ask Me About:		.NET / Web / Java / Python & ML 
 * Reach Me:	      Email me @ hamcalum10@gmail.com
 * Hackerrank:		  https://www.hackerrank.com/AverageBeing
 * CodeWars:			  https://www.codewars.com/users/AverageHomosapien
