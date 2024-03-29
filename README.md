@@ -2,7 +2,6 @@
 
 ![counter](https://enu3dh16cpjvixi.m.pipedream.net)
 
-* Pronouns: 		  He/Him
 * Current Role: 	Software Developer
 * Ask Me About:		.NET / Web / Java / Python & ML 
 * Reach Me:	      Email me @ hamcalum10@gmail.com
