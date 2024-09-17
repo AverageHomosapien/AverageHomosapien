@@ -5,10 +5,11 @@
 * Current Role: 	Software Engineer
 * Ask Me About:		.NET / Web / C / Python & ML 
 * Reach Me:	      Email me @ hamcalum10@gmail.com
-* StackOverFlow:	https://stackoverflow.com/users/8454504
+* Medium:         https://medium.com/@AverageHomosapien
 * Leetcode:       https://leetcode.com/u/AverageHomosapien/
 * Hackerrank:		  https://www.hackerrank.com/AverageBeing
 * CodeWars:			  https://www.codewars.com/users/AverageHomosapien
+* StackOverFlow:	https://stackoverflow.com/users/8454504
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=AverageHomosapien)
